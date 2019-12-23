@@ -1,0 +1,17 @@
+{
+  "name": "reduxbasic",
+  "version": "1.0.0",
+  "description": "Ejercicio Básico con Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Stalin Maza",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
